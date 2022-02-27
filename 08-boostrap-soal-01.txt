@@ -1,0 +1,26 @@
+1.  Apa itu CSS Framework?
+=>  CSS Framework bisa diartikan sebagai sebuah kerangka kerja yang biasa digunakan oleh para developer untuk 
+    memudahkan proses coding CSS pada website agar lebih terstruktur dan rapi.
+
+2.  Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+=>  tidak
+
+3.  Sebutkan beberapa CSS Framework selain Bootstrap
+=>  - Bootstrap
+    - Foundation
+    - Bulma
+    - Semantic UI
+    - UIKit
+    - Blueprint
+    - Skeleton
+    - Pure CSS
+    - Materialize
+    - Gumby
+
+4.  Bagaimana tata cara penggunaan Bootstrap?
+=>  kita bisa menggunkan Boostrap secara offline dan online.
+    cara menggunakan boostrap secara online kita tidak perlu mendownload file CSS dan JS ke dalam project website.
+    kita hanya perlu menambahkan script CSS dan script JS, Untuk mempermudah inisialisasi project, Bootstrap juga 
+    menyediakan starter template file HTML yang bisa langsung kita gunakan, misalnya boostrap 5 yang memiliki fitur 
+    baru yang bisa kita terapkan pada website yang kita buat dengan cara Membuat Navbar,Membuat Jumbotron, Menggunakan 
+    Card, Membuat Form, dan Membuat Footer.  
